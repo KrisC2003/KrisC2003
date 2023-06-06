@@ -1,16 +1,16 @@
-### Hi there 👋
+### Interested in open-source and eager to contribute.
 
-<!--
-**Nagu2003/Nagu2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently learning how to contribute to open source to learn more about coding
+feedback is appreciated!
 
-Here are some ideas to get you started:
+## Currently pursuing in Computer Science B.S.
+2nd year college student at Brooklyn College
+Just completed:
+Calc 1, Data Structures and Discrete Math
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Skills
+- Java
+- 
+📫 How to reach me: ch.kris2003@gmail.com 📫
+
+Looking forward to connecting with others and contributing!
