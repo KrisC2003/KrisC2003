@@ -1,12 +1,18 @@
-### Interested in open-source and eager to contribute.
+### Hi there! 👋
+I'm a 2nd-year college student at Brooklyn College, currently focused on learning more about coding and contributing to open source projects.
 
-I’m currently learning how to contribute to open source to learn more about coding
-feedback is appreciated!
+## Interests
+Currently interested in:
+- Coding and Software Development
+- Gaining work experience
 
-## Currently pursuing in Computer Science B.S.
-2nd year college student at Brooklyn College
-Just completed:
-Calc 1, Data Structures and Discrete Math
+## Education
+Currently pursuing in Computer Science B.S.  
+2nd year college student at Brooklyn College  
+Completed relevant courses:
+- Calculus 1
+- Data Structures 
+- Discrete Math
 
 ## Current Skills
 - Java
