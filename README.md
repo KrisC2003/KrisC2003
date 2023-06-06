@@ -10,7 +10,7 @@ Calc 1, Data Structures and Discrete Math
 
 ## Current Skills
 - Java
-- 
+
 📫 How to reach me: ch.kris2003@gmail.com 📫
 
 Looking forward to connecting with others and contributing!
