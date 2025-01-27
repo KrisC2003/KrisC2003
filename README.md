@@ -8,14 +8,18 @@ Currently interested in:
 
 ## Education
 Currently pursuing in Computer Science B.S.  
-2nd year college student at Brooklyn College  
+4th year college student at Brooklyn College  
 Completed relevant courses:
-- Calculus 1
+- Calculus 2
 - Data Structures 
 - Discrete Math
+- Operating Systems
+- Computer Architecture
+- Analysis of Algorithms
 
 ## Current Skills
 - Java
+- C++
 
 📫 How to reach me: ch.kris2003@gmail.com 📫
 
