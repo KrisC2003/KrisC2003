@@ -1,5 +1,5 @@
 ### Hi there! 👋
-I'm a 4th-year college student at Brooklyn College, currently focused on learning more about coding and contributing to open source projects.
+I'm a 4th-year college student at Brooklyn College, currently focused on learning more about coding.
 
 ## Interests
 Currently interested in:
